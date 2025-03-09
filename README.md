@@ -18,8 +18,8 @@ Jest is used as the test runner.
 
 Installation & Setup
 1. Clone the Repository
-2. git clone https://github.com/your-repo-name.git
-3. cd your-repo-name
+2. git clone https://github.com/parminder100/post-project-nextjs/tree/master
+3. cd post-project-nextjs
 4. npm install
 5. npm start
 
